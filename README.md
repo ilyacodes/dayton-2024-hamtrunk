@@ -4,7 +4,7 @@ We're excited to announce that Dayton Hamvention 2024 will include an appearance
 
 ## Visit us!
 
-Visit us at the **big red fire truck** 🚒 in the [EmComm Expo](https://hamvention.org/emcomm/), **booth 7720**, or call us on [**HT-Primary**](#ht-primary)!
+Visit us at the **big red fire truck** 🚒 in the [EmComm Expo](https://hamvention.org/emcomm/), flea market [**booth 7720**](https://tracker.hamvention.org/Webrental/DARA/Contents/LayoutPanel.aspx?Id=18&Name=&EId=42&Page=Index&CategoryID=FleaMarket&askLogin=Yes), or call us on [**HT-Primary**](#ht-primary)!
 
 ## Poster
 
