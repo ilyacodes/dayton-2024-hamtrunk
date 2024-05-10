@@ -2,6 +2,10 @@
 
 We're excited to announce that Dayton Hamvention 2024 will include an appearance from a **Motorola Type II** trunking system in the **70cm amateur band** (lovingly referred to as the **HamTrunk™**)!
 
+## Visit us!
+
+Visit us at the **big red fire truck** 🚒 in the [EmComm Expo](https://hamvention.org/emcomm/), **booth 7720**, or call us on [**HT-Primary**](#ht-primary)!
+
 ![](images/poster.png)
 
 ## ❗ Authorisation / Rules ❗
