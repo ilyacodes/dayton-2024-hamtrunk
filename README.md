@@ -6,6 +6,8 @@ We're excited to announce that Dayton Hamvention 2024 will include an appearance
 
 Visit us at the **big red fire truck** 🚒 in the [EmComm Expo](https://hamvention.org/emcomm/), **booth 7720**, or call us on [**HT-Primary**](#ht-primary)!
 
+## Poster
+
 ![](images/poster.png)
 
 ## ❗ Authorisation / Rules ❗
