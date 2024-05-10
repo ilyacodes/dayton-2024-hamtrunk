@@ -38,7 +38,7 @@ Users that do not follow these rules are automatically no longer authorised to u
 
 ## Unit / Radio / Subscriber ID
 
-Please use the following **decimal** radio ID: `1xxxx`, where `xxxx` is:
+Please use the following **decimal** radio ID: **`1xxxx`**, that is **the number `1` followed by**:
 
 - the last 4 digits of your [DMR ID](https://radioid.net/database) if you have one, or
 - a random 4-digit decimal ID otherwise [[click here for one!](https://www.random.org/integers/?num=1&min=1&max=9999&col=1&base=10&format=html&rnd=new)]
