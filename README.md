@@ -64,8 +64,8 @@ Radio IDs that do not follow this schema will not function properly.
 | Designation | Receive frequency | Transmit frequency |
 |-------------|-------------------|--------------------|
 | Primary     | 446.0125 MHz      | 441.0125 MHz       |
-| Secondary 1 | *TBD*             | *TBD*              |
-| Secondary 2 | *TBD*             | *TBD*              |
+| Alternate 1 | 446.1125 MHz      | 441.1125 MHz       |
+| Alternate 2 | 446.2125 MHz      | 441.2125 MHz       |
 
 ## Talkgroups
 
